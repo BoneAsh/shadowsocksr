@@ -14,8 +14,8 @@ Debian / Ubuntu:
 
     apt-get install git
     git clone https://github.com/BoneAsh/shadowsocksr.git
-    //git clone https://github.com/shadowsocksr/shadowsocksr.git
-
+    //git clone https://github.com/shadowsocksr/shadowsocksr.git
+    
 CentOS:
 
     yum install git
